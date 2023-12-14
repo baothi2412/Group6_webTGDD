@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "TGDĐ";
+    
+}
+
+
+<br />
+<div class="row">
+    <div class="col-md-8">
+       @Html.Action("SlidePartial","Home")
+    </div>
+    <div class="col-md-4">
+        <img src="~/HinhanhSP/qc3.gif" class="img-responsive" alt="" />
+       
+    </div>
+</div>
+<div>
+    <img class="img-responsive" src="~/HinhanhSP/ban3.jpg" />
+</div>
+<br />
+<div class="spnoibat">
+    <div class="row">
+
+        <h3> SẢN PHẨM NỔI BẬT</h3>
+        <div class="col-md-4">
+            <img src="~/HinhanhSP/bp2.png" class="img-responsive" alt="" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/HinhanhSP/sp2.jpg" class="img-responsive" alt="" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/HinhanhSP/sp3.jpg" class="img-responsive" alt="" />
+        </div>
+    </div>
+</div>
+<div class="danhmuc">
+    <img src="~/HinhanhSP/bp1.png" class="img-responsive" alt="" />
+</div>
+<div class="dt">
+
+    @Html.Action("dtiphonePartial", "Sanpham")
+</div>
+<div class="dt">
+
+    @Html.Action("dtsamsungpartial", "Sanpham")
+</div>
+
+<div class="dt">
+
+    @Html.Action("dtxiaomipartial", "Sanpham")
+</div>
+
+
+

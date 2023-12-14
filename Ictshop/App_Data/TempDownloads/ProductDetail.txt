@@ -1,0 +1,9 @@
+38 - Xiaomi Redmi Note 12 Pro - 10000000 - 1000 -  2 - Xiaomi     - Android   
+39 - Redmi Note 12 Pro Plus - 12000000 - 2000 -  2 - Xiaomi     - Android   
+40 - Redmi Note 13 Pro - 9000000 - 2000 -  2 - Xiaomi     - Android   
+41 - Samsung galaxy Z - 50000000 - 100 -  2 - Sam Sung   - Android   
+42 - Samsung galaxy S - 20000000 - 1000 -  2 - Sam Sung   - Android   
+43 - Samsung Galaxy S22 Ultra 5G 128GB - 18000000 - 200 -  2 - Sam Sung   - Android   
+45 - Iphone 14 promax - 25000000 - 300 -  2 - Apple      - IOS       
+46 - Iphone 13 pro max - 23000000 - 234 -  2 - Apple      - IOS       
+47 - Iphone 15 pro max - 50000000 - 1000 -  2 - Apple      - IOS       
